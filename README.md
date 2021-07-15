@@ -1,6 +1,6 @@
 # news_app
 Made a news app (Provider state management)
-p align ="center">
+<p align ="center">
 <img src="https://github.com/divyambhutani/news_app/tree/main/newsify%20images/IMG-20210714-WA0009.jpg"  alt="Login Screen" width="200" height="400" /></p>
 <p align ="center">
 <img src="hhttps://github.com/divyambhutani/news_app/tree/main/newsify%20images/IMG-20210714-WA0011.jpg"  alt="Register Screen" width="200" height="400" /></p>
